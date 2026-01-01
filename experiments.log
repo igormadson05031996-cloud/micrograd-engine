@@ -1,3 +1,4 @@
 # micrograd-engine
 # 2026-01-01: Extract config into dataclass
 # 2026-01-01: Cache tokenised dataset to disk
+# 2026-01-01: Handle empty batch edge case
