@@ -1,3 +1,4 @@
 # micrograd-engine
 # 2026-01-02: Refactor training loop for clarity
 # 2026-01-04: Simplify config loading
+# 2026-01-07: Tune hyperparameters for better accuracy
