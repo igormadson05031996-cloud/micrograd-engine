@@ -3,3 +3,4 @@
 # 2026-01-04: Simplify config loading
 # 2026-01-07: Tune hyperparameters for better accuracy
 # 2026-01-10: Add type hints to core functions
+# 2026-01-11: Add baseline evaluation script
