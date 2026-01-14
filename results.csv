@@ -5,3 +5,4 @@
 # 2026-01-10: Add type hints to core functions
 # 2026-01-11: Add baseline evaluation script
 # 2026-01-14: Update dependencies
+# 2026-01-14: Tune hyperparameters for better accuracy
