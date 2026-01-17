@@ -6,3 +6,4 @@
 # 2026-01-11: Add baseline evaluation script
 # 2026-01-14: Update dependencies
 # 2026-01-14: Tune hyperparameters for better accuracy
+# 2026-01-17: Document model architecture
