@@ -8,3 +8,4 @@
 # 2026-01-14: Tune hyperparameters for better accuracy
 # 2026-01-17: Document model architecture
 # 2026-01-19: Extract config into dataclass
+# 2026-01-19: Handle empty batch edge case
