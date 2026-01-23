@@ -7,3 +7,4 @@
 # 2026-01-04: Fix edge case in data preprocessing
 # 2026-01-14: Fix off-by-one in batch sampler
 # 2026-01-20: Add baseline evaluation script
+# 2026-01-23: Vectorise inner loop for speed
