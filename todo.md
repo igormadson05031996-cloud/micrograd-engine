@@ -10,3 +10,4 @@
 # 2026-01-27: Fix checkpoint save path
 # 2026-01-27: Clean up unused imports
 # 2026-01-28: Fix seed for reproducibility
+# 2026-01-28: Simplify config loading
