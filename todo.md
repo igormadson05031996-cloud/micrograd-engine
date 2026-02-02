@@ -13,3 +13,4 @@
 # 2026-01-28: Simplify config loading
 # 2026-01-29: Reduce memory usage in forward pass
 # 2026-01-29: Handle empty batch edge case
+# 2026-02-02: Add docstrings to utility functions
