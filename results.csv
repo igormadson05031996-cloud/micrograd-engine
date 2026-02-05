@@ -14,3 +14,4 @@
 # 2026-01-24: Minor performance improvements
 # 2026-01-24: Vectorise inner loop for speed
 # 2026-01-28: Switch to AdamW optimiser
+# 2026-02-05: Vectorise inner loop for speed
