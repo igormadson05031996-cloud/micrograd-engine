@@ -16,3 +16,4 @@
 # 2026-02-02: Add docstrings to utility functions
 # 2026-02-06: Handle empty batch edge case
 # 2026-02-10: Add baseline evaluation script
+# 2026-02-14: Minor performance improvements
