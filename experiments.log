@@ -10,3 +10,4 @@
 # 2026-01-23: Vectorise inner loop for speed
 # 2026-01-23: Log validation metrics per epoch
 # 2026-02-10: Minor performance improvements
+# 2026-02-15: Simplify loss computation
