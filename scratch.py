@@ -6,3 +6,4 @@
 # 2026-01-25: Simplify loss computation
 # 2026-01-26: Switch to AdamW optimiser
 # 2026-01-26: Tune hyperparameters for better accuracy
+# 2026-02-16: Add docstrings to utility functions
