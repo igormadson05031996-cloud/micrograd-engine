@@ -7,3 +7,4 @@
 # 2026-02-03: Clean up unused imports
 # 2026-02-07: Switch to AdamW optimiser
 # 2026-02-13: Extract config into dataclass
+# 2026-02-16: Add early stopping to trainer
