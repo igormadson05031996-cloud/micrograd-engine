@@ -8,3 +8,4 @@
 # 2026-02-07: Switch to AdamW optimiser
 # 2026-02-13: Extract config into dataclass
 # 2026-02-16: Add early stopping to trainer
+# 2026-02-17: Fix seed for reproducibility
