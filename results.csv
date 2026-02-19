@@ -17,3 +17,4 @@
 # 2026-02-05: Vectorise inner loop for speed
 # 2026-02-06: Fix off-by-one in batch sampler
 # 2026-02-09: Document model architecture
+# 2026-02-19: Vectorise inner loop for speed
