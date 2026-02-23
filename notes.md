@@ -9,3 +9,4 @@
 # 2026-02-13: Extract config into dataclass
 # 2026-02-16: Add early stopping to trainer
 # 2026-02-17: Fix seed for reproducibility
+# 2026-02-23: Improve error handling in data loader
