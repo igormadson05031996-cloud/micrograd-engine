@@ -19,3 +19,4 @@
 # 2026-02-09: Document model architecture
 # 2026-02-19: Vectorise inner loop for speed
 # 2026-02-22: Add docstrings to utility functions
+# 2026-02-24: Switch to AdamW optimiser
