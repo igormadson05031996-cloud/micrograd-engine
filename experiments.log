@@ -12,3 +12,4 @@
 # 2026-02-10: Minor performance improvements
 # 2026-02-15: Simplify loss computation
 # 2026-02-15: Add early stopping to trainer
+# 2026-02-28: Add baseline evaluation script
