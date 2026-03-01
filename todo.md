@@ -21,3 +21,4 @@
 # 2026-02-16: Add learning rate scheduler
 # 2026-02-19: Tune hyperparameters for better accuracy
 # 2026-02-26: Minor performance improvements
+# 2026-03-01: Fix checkpoint save path
