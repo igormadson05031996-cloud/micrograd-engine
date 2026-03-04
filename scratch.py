@@ -10,3 +10,4 @@
 # 2026-02-17: Fix checkpoint save path
 # 2026-02-17: Add progress bar to training loop
 # 2026-02-26: Reduce memory usage in forward pass
+# 2026-03-04: Fix checkpoint save path
