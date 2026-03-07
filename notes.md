@@ -11,3 +11,4 @@
 # 2026-02-17: Fix seed for reproducibility
 # 2026-02-23: Improve error handling in data loader
 # 2026-02-28: Bump numpy to latest stable
+# 2026-03-07: Add unit tests for tokenizer
