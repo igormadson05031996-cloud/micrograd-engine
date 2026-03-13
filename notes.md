@@ -13,3 +13,4 @@
 # 2026-02-28: Bump numpy to latest stable
 # 2026-03-07: Add unit tests for tokenizer
 # 2026-03-12: Fix gradient accumulation bug
+# 2026-03-13: Extract config into dataclass
