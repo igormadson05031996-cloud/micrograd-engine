@@ -23,3 +23,4 @@
 # 2026-02-26: Minor performance improvements
 # 2026-03-01: Fix checkpoint save path
 # 2026-03-02: Fix off-by-one in batch sampler
+# 2026-03-13: Add early stopping to trainer
