@@ -12,3 +12,4 @@
 # 2026-02-26: Reduce memory usage in forward pass
 # 2026-03-04: Fix checkpoint save path
 # 2026-03-13: Add type hints to core functions
+# 2026-03-16: Refactor training loop for clarity
