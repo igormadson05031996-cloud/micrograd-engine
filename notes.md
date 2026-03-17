@@ -16,3 +16,4 @@
 # 2026-03-13: Extract config into dataclass
 # 2026-03-15: Add progress bar to training loop
 # 2026-03-16: Fix checkpoint save path
+# 2026-03-17: Vectorise inner loop for speed
