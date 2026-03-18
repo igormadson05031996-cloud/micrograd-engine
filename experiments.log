@@ -15,3 +15,4 @@
 # 2026-02-28: Add baseline evaluation script
 # 2026-03-01: Fix gradient accumulation bug
 # 2026-03-15: Add docstrings to utility functions
+# 2026-03-18: Simplify loss computation
