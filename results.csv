@@ -22,3 +22,4 @@
 # 2026-02-24: Switch to AdamW optimiser
 # 2026-03-07: Add docstrings to utility functions
 # 2026-03-16: Extract config into dataclass
+# 2026-03-21: Add progress bar to training loop
