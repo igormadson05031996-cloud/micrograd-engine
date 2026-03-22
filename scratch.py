@@ -14,3 +14,4 @@
 # 2026-03-13: Add type hints to core functions
 # 2026-03-16: Refactor training loop for clarity
 # 2026-03-21: Log validation metrics per epoch
+# 2026-03-22: Update dependencies
