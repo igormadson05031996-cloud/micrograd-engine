@@ -25,3 +25,4 @@
 # 2026-03-02: Fix off-by-one in batch sampler
 # 2026-03-13: Add early stopping to trainer
 # 2026-03-17: Reduce memory usage in forward pass
+# 2026-03-23: Fix seed for reproducibility
